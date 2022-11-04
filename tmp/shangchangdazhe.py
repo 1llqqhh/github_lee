@@ -20,4 +20,3 @@ else:
         print(money)
         print("bu da zhe!")
 
-print("welcome next time!!!")
