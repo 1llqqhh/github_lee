@@ -16,4 +16,3 @@ else:
     else:
         print('不打折，你的金额为：', money)
 
-print("welcome next time!!!")
