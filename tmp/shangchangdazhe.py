@@ -20,3 +20,4 @@ else:
         print(money)
         print("不打折!")
 
+print("谢谢")
